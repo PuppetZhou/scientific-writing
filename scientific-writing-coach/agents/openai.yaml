@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Writing Coach"
+  short_description: "通过作者问答明确研究论证，按章节重构段落逻辑并润色中英文表达"
+  default_prompt: "请使用 $scientific-writing-coach，先针对我稿件中尚不清楚的研究逻辑提问，再按章节优化段落和语句。"
